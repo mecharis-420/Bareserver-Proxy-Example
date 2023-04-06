@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/uv/',
-    bare: 'ENTER BARE SERVER HERE',
+    bare: 'https://tcgrjc-8080.csb.app/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
