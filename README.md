@@ -2,7 +2,7 @@
 <h1>Bareserver-Proxy-Example</h1>
 <h3>An example of using a external bareserver (TompHTTP) with Ultraviolent.</h3>
 </div>
-<h2>Changing Bare Server</h2>
+<h2>Changing The Bare Server</h2>
 In /uv/uv.config.js change the https://tcgrjc-8080.csb.app/ to your prefered external bare server url.
 
 ```
